@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Wheels of Passion</string>
+    <string name="list_kosong">Belum ada data yang ditambahkan.\n Yuk tambahin sekarang.</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="tipe_mobil_label">Tipe Mobil</string>
+    <string name="pesan_hapus">Hapus artikel mobil ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="tombol_coba_lagi">Coba lagi</string>
+    <string name="tombol_tutup">Tutup</string>
+    <string name="tombol_logout">Logout</string>
+    <string name="list">Tampilan List</string>
+    <string name="grid">Tampilan Grid</string>
+    <string name="gambar">Gambar %1$s</string>
+    <string name="error">Gagal memuat data.</string>
+    <string name="profil">Profil</string>
+    <string name="tambah_foto">Tambah Foto</string>
+    <string name="nama_mobil_label">Nama Mobil</string>
+    <string name="tempat_label">Tempat</string>
+</resources>
